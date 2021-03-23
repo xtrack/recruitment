@@ -1,0 +1,267 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Martyn",
+            "lastName": "Widmore",
+            "email": "mwidmore0@freewebs.com",
+            "address": {
+                "city": "Longmen",
+                "street": "88146 Harper Drive"
+            },
+            "attitude": 1,
+            "relation": 1,
+            "friendCount": 2
+        },
+        {
+            "id": 2,
+            "firstName": "Maria",
+            "lastName": "Milsap",
+            "email": "mmilsap1@issuu.com",
+            "address": {
+                "city": "Tianzhen",
+                "street": "91 Morrow Parkway"
+            },
+            "attitude": 2,
+            "relation": 2,
+            "friendCount": 3
+        },
+        {
+            "id": 3,
+            "firstName": "Melli",
+            "lastName": "Glowacz",
+            "email": "mglowacz2@engadget.com",
+            "address": {
+                "city": "Dongobesh",
+                "street": "93 Graedel Place"
+            },
+            "attitude": 1,
+            "relation": 2,
+            "friendCount": 4
+        },
+        {
+            "id": 4,
+            "firstName": "Ninetta",
+            "lastName": "Orvis",
+            "email": "norvis3@51.la",
+            "address": {
+                "city": "Rio de Janeiro",
+                "street": "64338 Rutledge Place"
+            },
+            "attitude": 3,
+            "relation": 1,
+            "friendCount": 15
+        },
+        {
+            "id": 5,
+            "firstName": "Calida",
+            "lastName": "Stodd",
+            "email": "cstodd4@aol.com",
+            "address": {
+                "city": "Savanna-la-Mar",
+                "street": "6262 Service Point"
+            },
+            "attitude": 2,
+            "relation": 2,
+            "friendCount": 32
+        },
+        {
+            "id": 6,
+            "firstName": "Gelya",
+            "lastName": "Decort",
+            "email": "gdecort5@whitehouse.gov",
+            "address": {
+                "city": "Guandu",
+                "street": "13 Steensland Terrace"
+            },
+            "attitude": 3,
+            "relation": 1,
+            "friendCount": 0
+        },
+        {
+            "id": 7,
+            "firstName": "Hetti",
+            "lastName": "Horsburgh",
+            "email": "hhorsburgh6@barnesandnoble.com",
+            "address": {
+                "city": "Ozalj",
+                "street": "999 Forest Run Street"
+            },
+            "attitude": 3,
+            "relation": 2,
+            "friendCount": 2
+        },
+        {
+            "id": 8,
+            "firstName": "Sarita",
+            "lastName": "Beushaw",
+            "email": "sbeushaw7@homestead.com",
+            "address": {
+                "city": "Hekou",
+                "street": "692 Fairview Terrace"
+            },
+            "attitude": 3,
+            "relation": 2,
+            "friendCount": 13
+        },
+        {
+            "id": 9,
+            "firstName": "Lonee",
+            "lastName": "Scimonelli",
+            "email": "lscimonelli8@infoseek.co.jp",
+            "address": {
+                "city": "Amsterdam Oud Zuid en Rivierenbuurt",
+                "street": "5675 Weeping Birch Road"
+            },
+            "attitude": 2,
+            "relation": 2,
+            "friendCount": 27
+        },
+        {
+            "id": 10,
+            "firstName": "Malissia",
+            "lastName": "Moreside",
+            "email": "mmoreside9@sfgate.com",
+            "address": {
+                "city": "Hong’an Chengguanzhen",
+                "street": "93673 Mcguire Drive"
+            },
+            "attitude": 3,
+            "relation": 2,
+            "friendCount": 666
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "userId": 4,
+            "title": "lectus in est",
+            "body": "diam vitae quam suspendisse potenti"
+        },
+        {
+            "id": 2,
+            "userId": 6,
+            "title": "lobortis vel dapibus",
+            "body": "ut nulla sed accumsan felis"
+        },
+        {
+            "id": 3,
+            "userId": 10,
+            "title": "vivamus metus arcu",
+            "body": "magna vulputate luctus cum sociis"
+        },
+        {
+            "id": 4,
+            "userId": 9,
+            "title": "hac habitasse platea",
+            "body": "vestibulum ante ipsum primis in"
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "title": "quis orci nullam",
+            "body": "ut massa quis augue luctus"
+        },
+        {
+            "id": 6,
+            "userId": 5,
+            "title": "curae duis faucibus",
+            "body": "purus phasellus in felis donec"
+        },
+        {
+            "id": 7,
+            "userId": 2,
+            "title": "platea dictumst aliquam",
+            "body": "ullamcorper augue a suscipit nulla"
+        },
+        {
+            "id": 8,
+            "userId": 1,
+            "title": "curabitur in libero",
+            "body": "proin interdum mauris non ligula"
+        },
+        {
+            "id": 9,
+            "userId": 1,
+            "title": "ligula pellentesque ultrices",
+            "body": "erat id mauris vulputate elementum"
+        },
+        {
+            "id": 10,
+            "userId": 10,
+            "title": "rutrum ac lobortis",
+            "body": "tristique in tempus sit amet"
+        },
+        {
+            "id": 11,
+            "userId": 7,
+            "title": "pellentesque ultrices phasellus",
+            "body": "nam congue risus semper porta"
+        },
+        {
+            "id": 12,
+            "userId": 5,
+            "title": "malesuada in imperdiet",
+            "body": "nam ultrices libero non mattis"
+        },
+        {
+            "id": 13,
+            "userId": 8,
+            "title": "nisi nam ultrices",
+            "body": "pretium iaculis justo in hac"
+        },
+        {
+            "id": 14,
+            "userId": 3,
+            "title": "at nulla suspendisse",
+            "body": "sollicitudin vitae consectetuer eget rutrum"
+        },
+        {
+            "id": 15,
+            "userId": 8,
+            "title": "turpis enim blandit",
+            "body": "morbi ut odio cras mi"
+        },
+        {
+            "id": 16,
+            "userId": 1,
+            "title": "neque libero convallis",
+            "body": "justo aliquam quis turpis eget"
+        },
+        {
+            "id": 17,
+            "userId": 7,
+            "title": "nisi venenatis tristique",
+            "body": "ac leo pellentesque ultrices mattis"
+        },
+        {
+            "id": 18,
+            "userId": 10,
+            "title": "praesent id massa",
+            "body": "augue vestibulum rutrum rutrum neque"
+        },
+        {
+            "id": 19,
+            "userId": 5,
+            "title": "congue vivamus metus",
+            "body": "nascetur ridiculus mus etiam vel"
+        },
+        {
+            "id": 20,
+            "userId": 7,
+            "title": "nulla nunc purus",
+            "body": "fusce congue diam id ornare"
+        }
+    ],
+    "dictionary": {
+        "attitude": {
+            "1": "favourites",
+            "2": "neutral",
+            "3": "ignored"
+        },
+        "relation": {
+            "1": "family",
+            "2": "friends"
+        }
+    }
+}
